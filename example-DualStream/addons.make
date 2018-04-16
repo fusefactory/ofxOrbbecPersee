@@ -1,3 +1,0 @@
-ofxOrbbecPersee
-ofxHistoryPlot
-ofxGui
